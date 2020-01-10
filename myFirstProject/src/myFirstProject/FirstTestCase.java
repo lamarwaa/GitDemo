@@ -15,6 +15,7 @@ public class FirstTestCase {
 		WebDriver driver = new ChromeDriver();
 		String url = "http://toolsqa.com/automation-practice-table/" ;
 		driver.get(url);
+		System.out.println("Hello");
 		
 
 		
